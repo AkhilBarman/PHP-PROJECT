@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# HabitNest 🧠✨  
+A Web-Based Habit Tracker App  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Project Overview  
+**HabitNest** is a user-friendly, responsive, and visually intuitive habit tracker designed to help users build, monitor, and maintain positive daily habits. This project is built using modern web technologies including React.js, PHP, MySQL, and Tailwind CSS.  
 
-## Available Scripts
+Whether you're trying to drink more water, exercise regularly, or practice mindfulness — HabitNest is your digital companion to stay consistent and motivated.  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🎯 Features  
+- ✅ Add, edit, and delete custom habits  
+- 📅 Daily habit tracking  
+- 📊 Progress analytics (charts/visual feedback)  
+- 🌈 Clean, mobile-friendly UI  
+- 🔐 Secure user authentication  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack  
+| Layer        | Technology               |
+|--------------|---------------------------|
+| **Frontend** | React.js, Tailwind CSS    |
+| **Backend**  | PHP                       |
+| **Database** | MySQL                     |
+| **Libraries**| Axios, Recharts, Framer Motion |
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📌 How It Works  
+1. Users sign up and log in  
+2. Add daily habits to track  
+3. Mark habits as complete every day  
+4. Visualize progress via charts  
+5. Stay consistent and motivated!
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🔗 Prerequisites  
+- PHP >= 7.x  
+- MySQL server  
+- Node.js & npm  
+- Git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 💻 Installation  
+```bash
+git clone https://github.com/AkhilBarman/PHP-PROJECT.git
+cd PHP-PROJECT
